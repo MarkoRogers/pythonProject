@@ -6,3 +6,4 @@ Updated on small optimization
 Updated on removed unnecessary comments
 Updated on added more descriptive comments
 Updated on optimized some function performance
+Updated on fixed minor bugs
