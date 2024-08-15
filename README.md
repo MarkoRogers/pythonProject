@@ -12,3 +12,4 @@ Updated on fixed indentation issues
 Updated on simplified complex functions
 Updated on improved code efficiency
 Updated on cleaned up import statements
+Updated on reformatted code for better readability
