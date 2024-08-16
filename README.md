@@ -15,3 +15,4 @@ Updated on cleaned up import statements
 Updated on reformatted code for better readability
 Updated on adjusted code structure for maintainability
 Updated on optimized some function performance
+Updated on updated code to follow style guide
